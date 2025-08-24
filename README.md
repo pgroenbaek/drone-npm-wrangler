@@ -1,6 +1,6 @@
 # drone-npm-wrangler
 
-[![Docker Hub release (latest by date)](https://img.shields.io/docker/v/pgroenbaek/drone-python3-mariadb?style=flat&label=Latest%20Version&sort=semver)](https://hub.docker.com/r/pgroenbaek/drone-python3-mariadb/tags)
+[![Docker Hub release (latest by date)](https://img.shields.io/docker/v/pgroenbaek/drone-npm-wrangler?style=flat&label=Latest%20Version&sort=semver)](https://hub.docker.com/r/pgroenbaek/drone-npm-wrangler/tags)
 [![Drone CI](https://img.shields.io/badge/Drone%20CI-gray?style=flat&logo=drone&logoColor=white)](https://www.drone.io/)
 [![Node.js 22.18.0](https://img.shields.io/badge/version-22.18.0-grayblue?style=flat&logo=nodedotjs&logoColor=%23ffffff&label=Node.js&color=%23339933)](https://nodejs.org/)
 [![npm 10.9.3](https://img.shields.io/badge/version-10.9.3-grayblue?style=flat&logo=npm&logoColor=%23ffffff&label=npm&color=%23CB3837)](https://www.npmjs.com/)
